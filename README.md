@@ -13,6 +13,7 @@ A link to my Linkedin to view more general information about me
 This is a documentation file describing the process, charts, methods, and steps I have taken in making a functioning server in a Virtual Machine
 
 [14.3.5 Packet Tracer - Basic Router Configuration Review.docx](https://github.com/user-attachments/files/25173499/14.3.5.Packet.Tracer.-.Basic.Router.Configuration.Review.docx)
+
 [ROUTERCONFPICS.docx](https://github.com/user-attachments/files/25173527/ROUTERCONFPICS.docx)
 
 These are classwork projects showing my understanding and configuration of Routers and connecting them to a server
